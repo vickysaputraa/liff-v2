@@ -2,7 +2,7 @@
 Author :
 - https://github.com/crash-override404
 */
-var liffId = "1655312128-qGOPd8l8";
+var liffId = "1655312128-84xNqzLz";
 var params = location.search.substring(1);
 var url = window.location.href;
 if (params) {
